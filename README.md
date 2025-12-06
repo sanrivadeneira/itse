@@ -1,5 +1,6 @@
 # itse
 Estructuración del Repositorio y Desarrollo del Módulo Core
+Descripcion el proyecto y cómo instalarlo
 A
 B
 C
